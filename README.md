@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Github Stats
-
 [![fxxjdedd GitHub Stats](https://github-readme-stats.vercel.app/api?username=fxxjdedd&show_icons=true&count_private=true)](https://github.com/fxxjdedd)
 
 
